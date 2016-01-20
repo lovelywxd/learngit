@@ -1,3 +1,4 @@
+#Filename about_variable
 def func():
     global x
     print ('x is', x)
