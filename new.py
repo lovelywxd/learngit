@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print('HE,llo')
-=======
-print('HE,llo')
->>>>>>> f1
+print('HEllo')
